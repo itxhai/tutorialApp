@@ -1,0 +1,18 @@
+// http://ionicframework.com/docs/v2/theming/
+
+
+// App Shared Imports
+// --------------------------------------------------
+// These are the imports which make up the design of this app.
+// By default each design mode includes these shared imports.
+// App Shared Sass variables belong in app.variables.scss.
+
+@import "../pages/hello-ionic/hello-ionic";
+@import "../pages/item-details/item-details";
+
+/*
+.toolbar-background { background-color: #387ef5 }
+.toolbar-title, .bar-button-default { color:#ffffff; }
+.bar-button-default:hover { color:#ffffff; }
+.bar-button-default:hover:not(.disable-hover) { color: #ffffff; }
+*/ 
